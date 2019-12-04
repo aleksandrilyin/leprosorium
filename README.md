@@ -1,0 +1,2 @@
+# leprosorium
+Repository for Leprosorium
