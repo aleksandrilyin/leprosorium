@@ -16,10 +16,10 @@
 ## Запуск
 
 1. Клонируйте локально: `git clone git@github.com:aleksandrilyin/leprosorium.git`
-2. Перейдите в директорию: `cd ~/leprosorium`
-3. Установите гем bundler: `gem install bundler`
+2. Перейдите в директорию: `cd leprosorium`
+3. Установите гем Bundler: `gem install bundler`
 4. Установите зависимости: `bundle`
-5. Запустите локальный сервер: `bundle exec ruby app.rb`
-6. Посетите в браузере: `http://localhost:4567/`
+5. Запустите локальный веб-сервер: `bundle exec ruby app.rb`
+6. Пройдите в браузере по адресу: `http://localhost:4567`
 
 Для успешного запуска вам нужно установить Ruby 2.x.
